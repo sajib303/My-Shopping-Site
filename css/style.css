@@ -281,7 +281,7 @@ span{
     justify-content: center;
     align-items: center;
 }
-.notification h1{
+.notification h3{
     font-size: 2rem;
     color: rgb(56, 56, 56);
 }
